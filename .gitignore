@@ -1,0 +1,14 @@
+.next
+node_modules
+.env
+.venv
+__pycache__
+*.pyc
+.pytest_cache
+.mypy_cache
+tsconfig.tsbuildinfo
+dev-server.*.log
+uploads
+chroma-data
+postgres-data
+redis-data
